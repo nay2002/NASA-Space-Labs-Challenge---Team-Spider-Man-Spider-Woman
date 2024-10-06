@@ -3,7 +3,7 @@ A 3-D simulation of the closest exoplanets around Earth in real-time, with navig
 
 The stars have been kept in the background along with a real space-time field to further enhance the simulation giving the user a realistic feel. 
 
-Note:
+# Note:
 Make sure to change the file path before running the code, as the path provided in the code is an absolute path. 
 
 Load the CSV file
