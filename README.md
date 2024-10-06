@@ -5,6 +5,7 @@ The stars have been kept in the background along with a real space-time field to
 
 Note:
 Make sure to change the file path before running the code, as the path provided in the code is an absolute path. 
-# Load the CSV file
+
+Load the CSV file
 csv_file = r"C:\Users\prabd\OneDrive\Desktop\spacedata.csv" // Change this to the location where you have stored your file.
 data = pd.read_csv(csv_file)
